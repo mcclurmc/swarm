@@ -8,7 +8,7 @@ This repository contains the code to replicate experiments of
 **Note:** this codebase, as well as the project itself, is a work in progress: 
 certain features (e.g., rebalancing between pipeline stages) are not yet added to the repository, expect the paper to get updated as well.
 In the meantime, you can watch this repository or visit the [repository](https://github.com/bigscience-workshop/petals)
-of [Petals](https://petals.ml/) — a similar project for *inference* of large language models that was inspired by SWARM
+of [Petals](https://petals.dev/) — a similar project for *inference* of large language models that was inspired by SWARM
 and shares portions of codebase with it.
 
 # Large-scale experiments and throughput estimation
